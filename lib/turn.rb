@@ -39,5 +39,5 @@ def turn(board)
   else
     puts "Error, invalid move"
     turn(board)
-
+  end
 end
